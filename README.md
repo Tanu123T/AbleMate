@@ -1,2 +1,2 @@
 # AbleMate
-Your companion for accessible living.
+One Companion. Every Ability.
